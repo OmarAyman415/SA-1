@@ -1,0 +1,29 @@
+.content{
+    width: 106.4rem;
+    height: 25rem;
+    background-color: #43353D;
+    margin: 1rem 5rem;
+    border-radius: 10px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+li.add{
+    padding: 2rem;
+}
+
+.space{
+    width: 5rem;
+    height: 5rem;
+}
+
+.input-group-text{
+    width: 30rem;
+}
+
+.submit{
+    margin-top: 5rem;
+}
